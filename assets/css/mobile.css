@@ -1,0 +1,104 @@
+@media (max-width: 1400px) {
+    .font-size-mobile0 {
+        font-size: 30px;
+
+    }
+}
+
+@media (max-width: 1400px) {
+    .font-size-mobile1 {
+        font-size: 22px;
+
+    }
+}
+
+@media (max-width: 1400px) {
+    .font-size-mobile2 {
+        font-size: 12px;
+
+    }
+}
+
+@media (max-width: 1400px) {
+    .font-size-mobile3 {
+        font-size: 14px;
+
+    }
+}
+
+@media (max-width: 1400px) {
+    .font-size-mobile5 {
+        font-size: 18px;
+
+    }
+}
+
+@media (max-width: 576px) {
+    .ma-m-bt {
+        margin-bottom: 20px;
+
+    }
+}
+
+@media (max-width: 576px) {
+    .ma-m-t {
+        font-size: 14px;
+
+    }
+}
+
+@media (max-width: 576px) {
+    .ma-m-t {
+        font-size: 14px;
+
+    }
+}
+
+@media (max-width: 576px) {
+    .ma-m-t {
+        font-size: 14px;
+
+    }
+}
+
+@media (max-width: 576px) {
+    .ma-m-t {
+        font-size: 14px;
+
+    }
+}
+
+@media (max-width: 576px) {
+    .ma-m-t {
+        font-size: 14px;
+
+    }
+}
+
+@media (max-width: 576px) {
+    .ma-m-t {
+        font-size: 14px;
+
+    }
+}
+
+@media (max-width: 1400px) {
+    .box {
+        width: 100px;
+        height: 95px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .box-2 {
+        width: 100px;
+        height: 95px;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .mobile-only {
+        display: none;
+    }
+}
+
